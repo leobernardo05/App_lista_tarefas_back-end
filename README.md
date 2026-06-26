@@ -189,8 +189,7 @@ https://github.com/leobernardo05
 
 LinkedIn:
 
-*(adicione o link do seu perfil)*
-
+https://www.linkedin.com/in/leonardo0503/
 ---
 
 # 📄 Licença
