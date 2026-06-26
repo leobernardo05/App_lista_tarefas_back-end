@@ -5,9 +5,7 @@ Backend da aplicação **App Lista de Tarefas**, desenvolvido em PHP utilizando 
 > Este repositório contém apenas a lógica de negócio e acesso aos dados da aplicação. A interface do usuário está disponível em outro repositório.
 
 ## 🔗 Repositório do Front-end
-
-https://github.com/leobernardo05/App_lista_tarefas
-
+(https://github.com/leobernardo05/App_lista_tarefas_front-end)
 ---
 
 # 📚 Tecnologias utilizadas
